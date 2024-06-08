@@ -4,45 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.04&#10;1946번 해결&#10;정렬 후 비교">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon25314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/반복문/Baekjoon8393.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon10172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon10999.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Baekjoon2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Beakjoon10171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/입출력과사칙연산/Beakjoon11382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Baekjoon9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/조건문/Beakjoon2480.java" afterDir="false" />
+    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.07&#10;단계별로 풀기 ~ 반복문">
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon9086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Backjoon1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon5597.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon11723.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon11723.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon1283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon1283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon13305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon13305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon1946.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon1946.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon2512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon2512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon2531.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon2531.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/Baekjoon9655.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/Baekjoon9655.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +58,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Backjoon1546.executor": "Run",
     "Application.Baekjoon1008.executor": "Run",
     "Application.Baekjoon10172.executor": "Run",
     "Application.Baekjoon10430.executor": "Run",
+    "Application.Baekjoon10809.executor": "Run",
+    "Application.Baekjoon10811.executor": "Run",
+    "Application.Baekjoon10813.executor": "Run",
+    "Application.Baekjoon10818.executor": "Run",
+    "Application.Baekjoon10871.executor": "Run",
+    "Application.Baekjoon108810.executor": "Run",
     "Application.Baekjoon10926.executor": "Run",
     "Application.Baekjoon10950.executor": "Run",
     "Application.Baekjoon10951.executor": "Run",
     "Application.Baekjoon11021.executor": "Run",
+    "Application.Baekjoon1152.executor": "Run",
+    "Application.Baekjoon11654.executor": "Run",
+    "Application.Baekjoon11720.executor": "Run",
     "Application.Baekjoon1283.executor": "Run",
     "Application.Baekjoon15552.executor": "Run",
     "Application.Baekjoon18108.executor": "Run",
@@ -92,10 +84,17 @@
     "Application.Baekjoon25304.executor": "Run",
     "Application.Baekjoon25314.executor": "Run",
     "Application.Baekjoon2557.executor": "Run",
+    "Application.Baekjoon2562.executor": "Run",
     "Application.Baekjoon2588.executor": "Run",
+    "Application.Baekjoon2675.executor": "Run",
     "Application.Baekjoon2739.executor": "Run",
+    "Application.Baekjoon27866.executor": "Run",
     "Application.Baekjoon2884.executor": "Run",
+    "Application.Baekjoon2908.executor": "Run",
+    "Application.Baekjoon3052.executor": "Run",
+    "Application.Baekjoon5597.executor": "Run",
     "Application.Baekjoon8393.executor": "Run",
+    "Application.Baekjoon9086.executor": "Run",
     "Application.Beakjoon10171.executor": "Run",
     "Application.Beakjoon11382.executor": "Run",
     "Application.Beakjoon2480.executor": "Run",
@@ -116,13 +115,13 @@
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon8393">
-    <configuration name="Baekjoon10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.반복문.Baekjoon10950" />
+  <component name="RunManager" selected="Application.Baekjoon2908">
+    <configuration name="Baekjoon10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon10809" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.반복문.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.반복문.Baekjoon25304" />
+    <configuration name="Baekjoon1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon1152" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.반복문.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon25314" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.반복문.Baekjoon25314" />
+    <configuration name="Baekjoon11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon11720" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.반복문.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.반복문.Baekjoon2739" />
+    <configuration name="Baekjoon2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon2675" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.반복문.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.반복문.Baekjoon8393" />
+    <configuration name="Baekjoon2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon2908" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.반복문.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon8393" />
-        <item itemvalue="Application.Baekjoon25304" />
-        <item itemvalue="Application.Baekjoon25314" />
-        <item itemvalue="Application.Baekjoon2739" />
-        <item itemvalue="Application.Baekjoon10950" />
+        <item itemvalue="Application.Baekjoon2908" />
+        <item itemvalue="Application.Baekjoon1152" />
+        <item itemvalue="Application.Baekjoon2675" />
+        <item itemvalue="Application.Baekjoon10809" />
+        <item itemvalue="Application.Baekjoon11720" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717505213389</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2024.06.07&#10;단계별로 풀기 ~ 반복문">
+      <option name="closed" value="true" />
+      <created>1717771419640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717771419640</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.06.04" />
     <MESSAGE value="2024.06.04&#10;1946번 해결&#10;정렬 후 비교" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.06.04&#10;1946번 해결&#10;정렬 후 비교" />
+    <MESSAGE value="2024.06.07&#10;단계별로 풀기 ~ 반복문" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.06.07&#10;단계별로 풀기 ~ 반복문" />
   </component>
 </project>
