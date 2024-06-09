@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.07&#10;단계별로 풀기 ~ 반복문">
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon10809.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon11654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2675.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2743.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon27866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon2908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/문자와문자열/Baekjoon9086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Backjoon1546.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10810.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10811.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10813.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon2562.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon3052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/배열1차원/Baekjoon5597.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -74,6 +52,7 @@
     "Application.Baekjoon11021.executor": "Run",
     "Application.Baekjoon1152.executor": "Run",
     "Application.Baekjoon11654.executor": "Run",
+    "Application.Baekjoon11718.executor": "Run",
     "Application.Baekjoon11720.executor": "Run",
     "Application.Baekjoon1283.executor": "Run",
     "Application.Baekjoon15552.executor": "Run",
@@ -93,6 +72,7 @@
     "Application.Baekjoon2908.executor": "Run",
     "Application.Baekjoon3052.executor": "Run",
     "Application.Baekjoon5597.executor": "Run",
+    "Application.Baekjoon5622.executor": "Run",
     "Application.Baekjoon8393.executor": "Run",
     "Application.Baekjoon9086.executor": "Run",
     "Application.Beakjoon10171.executor": "Run",
@@ -115,20 +95,7 @@
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon2908">
-    <configuration name="Baekjoon10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon10809" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Baekjoon11718">
     <configuration name="Baekjoon1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon1152" />
       <module name="algorithm" />
@@ -142,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon11720" />
+    <configuration name="Baekjoon11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon11718" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -181,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon5622" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon5622" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon11718" />
+        <item itemvalue="Application.Baekjoon5622" />
         <item itemvalue="Application.Baekjoon2908" />
         <item itemvalue="Application.Baekjoon1152" />
         <item itemvalue="Application.Baekjoon2675" />
-        <item itemvalue="Application.Baekjoon10809" />
-        <item itemvalue="Application.Baekjoon11720" />
       </list>
     </recent_temporary>
   </component>
@@ -247,13 +227,38 @@
       <option name="project" value="LOCAL" />
       <updated>1717771419640</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열">
+      <option name="closed" value="true" />
+      <created>1717852665466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717852665466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열">
+      <option name="closed" value="true" />
+      <created>1717852723962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717852723962</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열">
+      <option name="closed" value="true" />
+      <created>1717852728969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717852728969</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.06.04" />
     <MESSAGE value="2024.06.04&#10;1946번 해결&#10;정렬 후 비교" />
     <MESSAGE value="2024.06.07&#10;단계별로 풀기 ~ 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.06.07&#10;단계별로 풀기 ~ 반복문" />
+    <MESSAGE value="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열" />
   </component>
 </project>
