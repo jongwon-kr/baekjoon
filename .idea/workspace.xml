@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열" />
+    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열">
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/심화1/Baekjoon10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/심화1/Baekjoon2444.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/심화1/Baekjoon3003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/심화1/Baekjoon6198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/심화1/Beakjoon2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon10845.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jongwon-kr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jongwon-kr/baekjoon.git&quot;,
+    &quot;accountId&quot;: &quot;6653b208-75c9-47a8-a391-00a00849bae3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,11 +65,14 @@
     "Application.Baekjoon10811.executor": "Run",
     "Application.Baekjoon10813.executor": "Run",
     "Application.Baekjoon10818.executor": "Run",
+    "Application.Baekjoon10828.executor": "Run",
+    "Application.Baekjoon10845.executor": "Run",
     "Application.Baekjoon10871.executor": "Run",
     "Application.Baekjoon108810.executor": "Run",
     "Application.Baekjoon10926.executor": "Run",
     "Application.Baekjoon10950.executor": "Run",
     "Application.Baekjoon10951.executor": "Run",
+    "Application.Baekjoon10988.executor": "Run",
     "Application.Baekjoon11021.executor": "Run",
     "Application.Baekjoon1152.executor": "Run",
     "Application.Baekjoon11654.executor": "Run",
@@ -59,6 +83,7 @@
     "Application.Baekjoon18108.executor": "Run",
     "Application.Baekjoon1946.executor": "Run",
     "Application.Baekjoon2439.executor": "Run",
+    "Application.Baekjoon2444.executor": "Run",
     "Application.Baekjoon2525.executor": "Run",
     "Application.Baekjoon25304.executor": "Run",
     "Application.Baekjoon25314.executor": "Run",
@@ -70,6 +95,7 @@
     "Application.Baekjoon27866.executor": "Run",
     "Application.Baekjoon2884.executor": "Run",
     "Application.Baekjoon2908.executor": "Run",
+    "Application.Baekjoon3003.executor": "Run",
     "Application.Baekjoon3052.executor": "Run",
     "Application.Baekjoon5597.executor": "Run",
     "Application.Baekjoon5622.executor": "Run",
@@ -78,11 +104,14 @@
     "Application.Beakjoon10171.executor": "Run",
     "Application.Beakjoon11382.executor": "Run",
     "Application.Beakjoon2480.executor": "Run",
+    "Application.Beakjoon2941.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Playdata/Documents/baekjoon",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -95,13 +124,13 @@
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon11718">
-    <configuration name="Baekjoon1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon1152" />
+  <component name="RunManager" selected="Application.Baekjoon10828">
+    <configuration name="Baekjoon10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.자료구조.Baekjoon10828" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="PATTERN" value="백준.코테스터디.자료구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon11718" />
+    <configuration name="Baekjoon10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.자료구조.Baekjoon10845" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="PATTERN" value="백준.코테스터디.자료구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon2675" />
+    <configuration name="Baekjoon10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.심화1.Baekjoon10988" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.심화1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon2908" />
+    <configuration name="Baekjoon2444" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.심화1.Baekjoon2444" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.심화1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon5622" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.문자와문자열.Baekjoon5622" />
+    <configuration name="Beakjoon2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.심화1.Beakjoon2941" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.문자와문자열.*" />
+          <option name="PATTERN" value="백준.단계별로풀기.심화1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,20 +192,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon11718" />
-        <item itemvalue="Application.Baekjoon5622" />
-        <item itemvalue="Application.Baekjoon2908" />
-        <item itemvalue="Application.Baekjoon1152" />
-        <item itemvalue="Application.Baekjoon2675" />
+        <item itemvalue="Application.Baekjoon10828" />
+        <item itemvalue="Application.Baekjoon10845" />
+        <item itemvalue="Application.Beakjoon2941" />
+        <item itemvalue="Application.Baekjoon10988" />
+        <item itemvalue="Application.Baekjoon2444" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
