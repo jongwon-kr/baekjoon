@@ -9,21 +9,12 @@ public class Beakjoon2941 {
 
         String str = br.readLine();
         String[] cWords = new String[]{"c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z="};
-        int cnt = 0;
 
-        for (int i = 0; i < 101; i++) {
-            for (int j = 0; j < cWords.length; j++) {
-                if (str.contains(cWords[j])) {
-                    cnt++;
-                    str = str.replaceFirst(cWords[j], "!");
-                }
-            }
+        for (String cWord : cWords) {
+            str = str.replace(cWord, "!");
         }
-        for (int i = 0; i < str.length(); i++) {
-            if (!(str.charAt(i) == '!')) {
-                cnt++;
-            }
-        }
+
+        int cnt = str.length();
 
         bw.write(String.valueOf(cnt));
         bw.flush();
