@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.11&#10;단계별로 풀기 ~ 일반 수학 1">
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon1406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon4889.java" afterDir="false" />
+    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.14&#10;코테 스터디 안정적인 문자열">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/단계별로풀기/일반수학1/Baekjoon1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/단계별로풀기/일반수학1/Baekjoon1193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon1406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon1406.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +76,7 @@
     "Application.Baekjoon11720.executor": "Run",
     "Application.Baekjoon1283.executor": "Run",
     "Application.Baekjoon1316.executor": "Run",
+    "Application.Baekjoon1406.executor": "Run",
     "Application.Baekjoon15552.executor": "Run",
     "Application.Baekjoon18108.executor": "Run",
     "Application.Baekjoon1946.executor": "Run",
@@ -131,7 +130,7 @@
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon4889">
+  <component name="RunManager" selected="Application.Baekjoon1406">
     <configuration name="Baekjoon11005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.일반수학1.Baekjoon11005" />
       <module name="algorithm" />
@@ -145,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.일반수학1.Baekjoon2720" />
+    <configuration name="Baekjoon1406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.자료구조.Baekjoon1406" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.단계별로풀기.일반수학1.*" />
+          <option name="PATTERN" value="백준.코테스터디.자료구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon2745" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.일반수학1.Baekjoon2745" />
+    <configuration name="Baekjoon2720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.단계별로풀기.일반수학1.Baekjoon2720" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -199,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon1406" />
         <item itemvalue="Application.Baekjoon4889" />
         <item itemvalue="Application.Baekjoon2903" />
         <item itemvalue="Application.Baekjoon2720" />
         <item itemvalue="Application.Baekjoon11005" />
-        <item itemvalue="Application.Baekjoon2745" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718187794259</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2024.06.14&#10;코테 스터디 안정적인 문자열">
+      <option name="closed" value="true" />
+      <created>1718327776388</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718327776388</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +313,7 @@
     <MESSAGE value="2024.06.08&#10;단계별로 풀기 1차원 배열 ~ 문자열" />
     <MESSAGE value="2024.06.11&#10;단계별로 풀기 그룹 문제 풀이 자료구조" />
     <MESSAGE value="2024.06.11&#10;단계별로 풀기 ~ 일반 수학 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.06.11&#10;단계별로 풀기 ~ 일반 수학 1" />
+    <MESSAGE value="2024.06.14&#10;코테 스터디 안정적인 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.06.14&#10;코테 스터디 안정적인 문자열" />
   </component>
 </project>
