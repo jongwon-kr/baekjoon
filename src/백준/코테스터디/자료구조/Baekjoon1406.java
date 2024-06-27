@@ -17,6 +17,7 @@ public class Baekjoon1406 {
             list.push(str.charAt(i));
         }
 
+        // 커서를 마지막에 위치
         ListIterator<Character> iter = list.listIterator(list.size());
 
         for (int i = 0; i < n; i++) {
@@ -33,8 +34,8 @@ public class Baekjoon1406 {
     }
 
     public static void edit(ListIterator<Character> iter, String eSen) {
-        if (eSen.startsWith("P ")) {
-            // eSen.split(" ")[1]을 커서의 왼쪽에 추가
+        if (eSen.contains("P ")) {
+            // eSen.char(2)을 커서의 왼쪽에 추가
             iter.add(eSen.charAt(2));
         } else {
             switch (eSen) {
