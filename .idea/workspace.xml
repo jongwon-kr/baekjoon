@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.14&#10;코테 스터디 에디터">
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/dynamicPrograming/Baekjoon15486.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/dynamicPrograming/Baekjoon9251.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/너비탐색깊이탐색/Baekjoon7569.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/시뮬레이션/Baekjoon13335.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/시뮬레이션/Baekjoon3190.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/시뮬레이션/Baekjoon31902.java" afterDir="false" />
+    <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.27&#10;코테 스터디 dp">
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week1/Baekjoon9933.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week5/Baekjoon11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week5/Baekjoon1343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week5/Baekjoon1439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week6/Baekjoon1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/test8/Baekjoon23349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/test8/Baekjoon25556.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/test9/Baekjoon17391.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/week10/Baekjoon1446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/week10/Baekjoon2075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/그리디/Baekjoon1744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/그리디/Baekjoon2212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/수학/Baekjoon1253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/수학/Baekjoon6603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준/코테스터디/해시/Baekjoon1351.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon1406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/코테스터디/자료구조/Baekjoon1406.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jongwon-kr/baekjoon.git&quot;,
-    &quot;accountId&quot;: &quot;6653b208-75c9-47a8-a391-00a00849bae3&quot;
+    &quot;accountId&quot;: &quot;50c67de3-df92-4ae3-a6e1-66b6b8491259&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,93 +64,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Backjoon1546.executor": "Run",
-    "Application.Baekjoon1008.executor": "Run",
-    "Application.Baekjoon10172.executor": "Run",
-    "Application.Baekjoon10430.executor": "Run",
-    "Application.Baekjoon10798.executor": "Run",
-    "Application.Baekjoon10809.executor": "Run",
-    "Application.Baekjoon10811.executor": "Run",
-    "Application.Baekjoon10813.executor": "Run",
-    "Application.Baekjoon10818.executor": "Run",
-    "Application.Baekjoon10828.executor": "Run",
-    "Application.Baekjoon10845.executor": "Run",
-    "Application.Baekjoon10871.executor": "Run",
-    "Application.Baekjoon108810.executor": "Run",
-    "Application.Baekjoon10926.executor": "Run",
-    "Application.Baekjoon10950.executor": "Run",
-    "Application.Baekjoon10951.executor": "Run",
-    "Application.Baekjoon10988.executor": "Run",
-    "Application.Baekjoon11005.executor": "Run",
-    "Application.Baekjoon11021.executor": "Run",
-    "Application.Baekjoon1152.executor": "Run",
-    "Application.Baekjoon11654.executor": "Run",
-    "Application.Baekjoon11718.executor": "Run",
-    "Application.Baekjoon11720.executor": "Run",
-    "Application.Baekjoon1283.executor": "Run",
-    "Application.Baekjoon1316.executor": "Run",
-    "Application.Baekjoon13335.executor": "Run",
-    "Application.Baekjoon1406.executor": "Run",
-    "Application.Baekjoon15486.executor": "Run",
-    "Application.Baekjoon15552.executor": "Run",
-    "Application.Baekjoon18108.executor": "Run",
-    "Application.Baekjoon1946.executor": "Run",
-    "Application.Baekjoon2439.executor": "Run",
-    "Application.Baekjoon2444.executor": "Run",
-    "Application.Baekjoon25206.executor": "Run",
-    "Application.Baekjoon2525.executor": "Run",
-    "Application.Baekjoon25304.executor": "Run",
-    "Application.Baekjoon25314.executor": "Run",
-    "Application.Baekjoon2557.executor": "Run",
-    "Application.Baekjoon2562.executor": "Run",
-    "Application.Baekjoon2563.executor": "Run",
-    "Application.Baekjoon2566.executor": "Run",
-    "Application.Baekjoon2588.executor": "Run",
-    "Application.Baekjoon2675.executor": "Run",
-    "Application.Baekjoon2720.executor": "Run",
-    "Application.Baekjoon2738.executor": "Run",
-    "Application.Baekjoon2739.executor": "Run",
-    "Application.Baekjoon2745.executor": "Run",
-    "Application.Baekjoon27866.executor": "Run",
-    "Application.Baekjoon2884.executor": "Run",
-    "Application.Baekjoon2903.executor": "Run",
-    "Application.Baekjoon2908.executor": "Run",
-    "Application.Baekjoon3003.executor": "Run",
-    "Application.Baekjoon3052.executor": "Run",
-    "Application.Baekjoon3190.executor": "Run",
-    "Application.Baekjoon31902.executor": "Run",
-    "Application.Baekjoon4889.executor": "Run",
-    "Application.Baekjoon5597.executor": "Run",
-    "Application.Baekjoon5622.executor": "Run",
-    "Application.Baekjoon7569.executor": "Run",
-    "Application.Baekjoon8393.executor": "Run",
-    "Application.Baekjoon9086.executor": "Run",
-    "Application.Baekjoon9251.executor": "Run",
-    "Application.Beakjoon10171.executor": "Run",
-    "Application.Beakjoon11382.executor": "Run",
-    "Application.Beakjoon2480.executor": "Run",
-    "Application.Beakjoon2941.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Playdata/Documents/baekjoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Backjoon1546.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10172.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10430.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10798.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10809.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10811.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10813.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10818.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10828.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10845.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10871.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon108810.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10926.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10950.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10951.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10988.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11654.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11718.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1283.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1316.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon13335.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1343.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1351.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1406.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1439.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1446.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon15486.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon15552.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon17391.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Baekjoon1744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon18108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1946.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2075.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2212.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon23349 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon23349.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2439.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2444.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25206.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2525.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25314.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25556.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2562.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2563.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2566.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2588.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2675.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2738.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2739.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2745.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon27866.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2884.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2903.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2908.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3052.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3190.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon31902.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon4889.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon5597.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon5622.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon7569.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon8393.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9086.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9251.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9933.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon10171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon11382.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon2480.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon2941.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Documents/baekjoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm\src" />
@@ -151,13 +173,13 @@
       <recent name="백준.코테스터디.시뮬레이션" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon15486">
-    <configuration name="Baekjoon13335" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.시뮬레이션.Baekjoon13335" />
+  <component name="RunManager" selected="Application.Baekjoon1343">
+    <configuration name="Baekjoon11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.sstudy.week5.Baekjoon11047" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.시뮬레이션.*" />
+          <option name="PATTERN" value="백준.sstudy.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon15486" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.dynamicPrograming.Baekjoon15486" />
+    <configuration name="Baekjoon1343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.sstudy.week5.Baekjoon1343" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.dynamicPrograming.*" />
+          <option name="PATTERN" value="백준.sstudy.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon3190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.시뮬레이션.Baekjoon3190" />
+    <configuration name="Baekjoon1439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.sstudy.week5.Baekjoon1439" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.시뮬레이션.*" />
+          <option name="PATTERN" value="백준.sstudy.week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon31902" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.시뮬레이션.Baekjoon31902" />
+    <configuration name="Baekjoon1446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.week10.Baekjoon1446" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.시뮬레이션.*" />
+          <option name="PATTERN" value="백준.코테스터디.week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon9251" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.dynamicPrograming.Baekjoon9251" />
+    <configuration name="Baekjoon2075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.week10.Baekjoon2075" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.dynamicPrograming.*" />
+          <option name="PATTERN" value="백준.코테스터디.week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Baekjoon15486" />
-        <item itemvalue="Application.Baekjoon9251" />
-        <item itemvalue="Application.Baekjoon3190" />
-        <item itemvalue="Application.Baekjoon31902" />
-        <item itemvalue="Application.Baekjoon13335" />
+        <item itemvalue="Application.Baekjoon1343" />
+        <item itemvalue="Application.Baekjoon11047" />
+        <item itemvalue="Application.Baekjoon1439" />
+        <item itemvalue="Application.Baekjoon1446" />
+        <item itemvalue="Application.Baekjoon2075" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +265,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717504139783</updated>
-      <workItem from="1719448126169" duration="12793000" />
+      <workItem from="1719448126169" duration="19787000" />
+      <workItem from="1719793190777" duration="16589000" />
+      <workItem from="1720052151189" duration="12257000" />
+      <workItem from="1720138247354" duration="605000" />
+      <workItem from="1720429136345" duration="1197000" />
+      <workItem from="1720434914577" duration="22000" />
+      <workItem from="1720665182232" duration="1405000" />
+      <workItem from="1720675863096" duration="2031000" />
+      <workItem from="1720686094591" duration="1122000" />
+      <workItem from="1720688439158" duration="688000" />
+      <workItem from="1721002227403" duration="14449000" />
+      <workItem from="1721031540381" duration="458000" />
+      <workItem from="1721033498311" duration="2210000" />
+      <workItem from="1721260450168" duration="12975000" />
+      <workItem from="1721347774078" duration="811000" />
+      <workItem from="1722818296259" duration="2835000" />
+      <workItem from="1722902074420" duration="6517000" />
+      <workItem from="1722910061966" duration="1267000" />
+      <workItem from="1723079273051" duration="4822000" />
+      <workItem from="1723539496112" duration="1181000" />
+      <workItem from="1724046479613" duration="176000" />
+      <workItem from="1725348722917" duration="3231000" />
+      <workItem from="1725359079659" duration="289000" />
+      <workItem from="1726204511838" duration="3867000" />
+      <workItem from="1726317766687" duration="1820000" />
     </task>
     <task id="LOCAL-00001" summary="2024.06.04">
       <option name="closed" value="true" />
@@ -341,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718346848107</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2024.06.27&#10;코테 스터디 dp">
+      <option name="closed" value="true" />
+      <created>1719473020425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719473020425</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +410,11 @@
     <MESSAGE value="2024.06.11&#10;단계별로 풀기 ~ 일반 수학 1" />
     <MESSAGE value="2024.06.14&#10;코테 스터디 안정적인 문자열" />
     <MESSAGE value="2024.06.14&#10;코테 스터디 에디터" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.06.14&#10;코테 스터디 에디터" />
+    <MESSAGE value="2024.06.27&#10;코테 스터디 dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.06.27&#10;코테 스터디 dp" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
