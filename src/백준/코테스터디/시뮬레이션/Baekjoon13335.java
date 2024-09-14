@@ -23,5 +23,5 @@ public class Baekjoon13335 {
             trucks[i] = Integer.parseInt(st.nextToken());
         }
 
-    }
-}
+                }
+            }
