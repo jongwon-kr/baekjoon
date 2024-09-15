@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe862a0-b845-47fc-b86b-89f35b89856d" name="Changes" comment="2024.06.27&#10;코테 스터디 dp">
+      <change afterPath="$PROJECT_DIR$/src/백준/sstudy/week6/Baekjoon7576.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준/sstudy/week6/Baekjoon1012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준/sstudy/week6/Baekjoon1012.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,107 +49,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Backjoon1546.executor": "Run",
-    "Application.Baekjoon1008.executor": "Run",
-    "Application.Baekjoon1012.executor": "Run",
-    "Application.Baekjoon10172.executor": "Run",
-    "Application.Baekjoon10430.executor": "Run",
-    "Application.Baekjoon10798.executor": "Run",
-    "Application.Baekjoon10809.executor": "Run",
-    "Application.Baekjoon10811.executor": "Run",
-    "Application.Baekjoon10813.executor": "Run",
-    "Application.Baekjoon10818.executor": "Run",
-    "Application.Baekjoon10828.executor": "Run",
-    "Application.Baekjoon10845.executor": "Run",
-    "Application.Baekjoon10871.executor": "Run",
-    "Application.Baekjoon108810.executor": "Run",
-    "Application.Baekjoon10926.executor": "Run",
-    "Application.Baekjoon10950.executor": "Run",
-    "Application.Baekjoon10951.executor": "Run",
-    "Application.Baekjoon10988.executor": "Run",
-    "Application.Baekjoon11005.executor": "Run",
-    "Application.Baekjoon11021.executor": "Run",
-    "Application.Baekjoon11047.executor": "Run",
-    "Application.Baekjoon1152.executor": "Run",
-    "Application.Baekjoon11654.executor": "Run",
-    "Application.Baekjoon11718.executor": "Run",
-    "Application.Baekjoon11720.executor": "Run",
-    "Application.Baekjoon1283.executor": "Run",
-    "Application.Baekjoon1316.executor": "Run",
-    "Application.Baekjoon13335.executor": "Run",
-    "Application.Baekjoon1343.executor": "Run",
-    "Application.Baekjoon1351.executor": "Run",
-    "Application.Baekjoon1406.executor": "Run",
-    "Application.Baekjoon1439.executor": "Run",
-    "Application.Baekjoon1446.executor": "Run",
-    "Application.Baekjoon15486.executor": "Run",
-    "Application.Baekjoon15552.executor": "Run",
-    "Application.Baekjoon17391.executor": "Debug",
-    "Application.Baekjoon1744.executor": "Run",
-    "Application.Baekjoon18108.executor": "Run",
-    "Application.Baekjoon1946.executor": "Run",
-    "Application.Baekjoon2075.executor": "Run",
-    "Application.Baekjoon2212.executor": "Run",
-    "Application.Baekjoon23349 (1).executor": "Run",
-    "Application.Baekjoon23349.executor": "Run",
-    "Application.Baekjoon2439.executor": "Run",
-    "Application.Baekjoon2444.executor": "Run",
-    "Application.Baekjoon25206.executor": "Run",
-    "Application.Baekjoon2525.executor": "Run",
-    "Application.Baekjoon25304.executor": "Run",
-    "Application.Baekjoon25314.executor": "Run",
-    "Application.Baekjoon25556.executor": "Run",
-    "Application.Baekjoon2557.executor": "Run",
-    "Application.Baekjoon2562.executor": "Run",
-    "Application.Baekjoon2563.executor": "Run",
-    "Application.Baekjoon2566.executor": "Run",
-    "Application.Baekjoon2588.executor": "Run",
-    "Application.Baekjoon2675.executor": "Run",
-    "Application.Baekjoon2720.executor": "Run",
-    "Application.Baekjoon2738.executor": "Run",
-    "Application.Baekjoon2739.executor": "Run",
-    "Application.Baekjoon2745.executor": "Run",
-    "Application.Baekjoon27866.executor": "Run",
-    "Application.Baekjoon2884.executor": "Run",
-    "Application.Baekjoon2903.executor": "Run",
-    "Application.Baekjoon2908.executor": "Run",
-    "Application.Baekjoon3003.executor": "Run",
-    "Application.Baekjoon3052.executor": "Run",
-    "Application.Baekjoon3190.executor": "Run",
-    "Application.Baekjoon31902.executor": "Run",
-    "Application.Baekjoon4889.executor": "Run",
-    "Application.Baekjoon5597.executor": "Run",
-    "Application.Baekjoon5622.executor": "Run",
-    "Application.Baekjoon7569.executor": "Run",
-    "Application.Baekjoon8393.executor": "Run",
-    "Application.Baekjoon9086.executor": "Run",
-    "Application.Baekjoon9251.executor": "Run",
-    "Application.Baekjoon9933.executor": "Run",
-    "Application.Beakjoon10171.executor": "Run",
-    "Application.Beakjoon11382.executor": "Run",
-    "Application.Beakjoon2480.executor": "Run",
-    "Application.Beakjoon2941.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Playdata/Documents/baekjoon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Backjoon1546.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10172.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10430.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10798.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10809.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10811.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10813.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10818.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10828.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10845.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10871.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon108810.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10926.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10950.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10951.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon10988.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11654.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11718.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon11720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1283.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1316.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon13335.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1343.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1351.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1406.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1439.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1446.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon15486.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon15552.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon17391.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Baekjoon1744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon18108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon1946.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2075.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2212.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon23349 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon23349.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2439.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2444.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25206.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2525.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25314.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon25556.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2562.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2563.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2566.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2588.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2675.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2720.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2738.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2739.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2745.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon27866.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2884.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2903.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon2908.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3052.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon3190.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon31902.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon4889.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon5597.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon5622.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon7569.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon7576.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon8393.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9086.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9251.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon9933.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon10171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon11382.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon2480.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Beakjoon2941.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;24-09-15/1012번&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Playdata/Documents/baekjoon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jongwon.JONG-PC\Desktop\SpringProject\algorithm\src" />
@@ -159,7 +160,7 @@
       <recent name="백준.코테스터디.시뮬레이션" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Baekjoon1012">
+  <component name="RunManager" selected="Application.Baekjoon7576">
     <configuration name="Baekjoon1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.sstudy.week6.Baekjoon1012" />
       <module name="algorithm" />
@@ -212,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon1446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.코테스터디.week10.Baekjoon1446" />
+    <configuration name="Baekjoon7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.sstudy.week6.Baekjoon7576" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.코테스터디.week10.*" />
+          <option name="PATTERN" value="백준.sstudy.week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon7576" />
         <item itemvalue="Application.Baekjoon1012" />
         <item itemvalue="Application.Baekjoon1343" />
         <item itemvalue="Application.Baekjoon11047" />
         <item itemvalue="Application.Baekjoon1439" />
-        <item itemvalue="Application.Baekjoon1446" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +277,8 @@
       <workItem from="1725359079659" duration="289000" />
       <workItem from="1726204511838" duration="3867000" />
       <workItem from="1726317766687" duration="1820000" />
+      <workItem from="1726375884298" duration="5565000" />
+      <workItem from="1726405020123" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="2024.06.04">
       <option name="closed" value="true" />
